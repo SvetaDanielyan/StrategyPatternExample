@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\source\\repos\\MultipleSortingAlgorithms\\MultipleSortingAlgorithms\\MultipleSortingAlgorithms.csproj": {}
+    "C:\\Users\\User\\Desktop\\StrategyPatternExample\\MultipleSortingAlgorithms\\MultipleSortingAlgorithms.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\source\\repos\\MultipleSortingAlgorithms\\MultipleSortingAlgorithms\\MultipleSortingAlgorithms.csproj": {
+    "C:\\Users\\User\\Desktop\\StrategyPatternExample\\MultipleSortingAlgorithms\\MultipleSortingAlgorithms.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\source\\repos\\MultipleSortingAlgorithms\\MultipleSortingAlgorithms\\MultipleSortingAlgorithms.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Desktop\\StrategyPatternExample\\MultipleSortingAlgorithms\\MultipleSortingAlgorithms.csproj",
         "projectName": "MultipleSortingAlgorithms",
-        "projectPath": "C:\\Users\\User\\source\\repos\\MultipleSortingAlgorithms\\MultipleSortingAlgorithms\\MultipleSortingAlgorithms.csproj",
+        "projectPath": "C:\\Users\\User\\Desktop\\StrategyPatternExample\\MultipleSortingAlgorithms\\MultipleSortingAlgorithms.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\source\\repos\\MultipleSortingAlgorithms\\MultipleSortingAlgorithms\\obj\\",
+        "outputPath": "C:\\Users\\User\\Desktop\\StrategyPatternExample\\MultipleSortingAlgorithms\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
