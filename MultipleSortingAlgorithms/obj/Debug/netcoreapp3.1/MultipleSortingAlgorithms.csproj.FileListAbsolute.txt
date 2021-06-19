@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\MultipleSortingAlgorithms\MultipleSortingAlgorithms\obj\Debug\netcoreapp3.1\MultipleSortingAlgorithms.csprojAssemblyReference.cache
+C:\Users\User\source\repos\MultipleSortingAlgorithms\MultipleSortingAlgorithms\obj\Debug\netcoreapp3.1\MultipleSortingAlgorithms.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\MultipleSortingAlgorithms\MultipleSortingAlgorithms\obj\Debug\netcoreapp3.1\MultipleSortingAlgorithms.AssemblyInfo.cs
+C:\Users\User\source\repos\MultipleSortingAlgorithms\MultipleSortingAlgorithms\obj\Debug\netcoreapp3.1\MultipleSortingAlgorithms.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\MultipleSortingAlgorithms\MultipleSortingAlgorithms\bin\Debug\netcoreapp3.1\MultipleSortingAlgorithms.exe
+C:\Users\User\source\repos\MultipleSortingAlgorithms\MultipleSortingAlgorithms\bin\Debug\netcoreapp3.1\MultipleSortingAlgorithms.deps.json
+C:\Users\User\source\repos\MultipleSortingAlgorithms\MultipleSortingAlgorithms\bin\Debug\netcoreapp3.1\MultipleSortingAlgorithms.runtimeconfig.json
+C:\Users\User\source\repos\MultipleSortingAlgorithms\MultipleSortingAlgorithms\bin\Debug\netcoreapp3.1\MultipleSortingAlgorithms.runtimeconfig.dev.json
+C:\Users\User\source\repos\MultipleSortingAlgorithms\MultipleSortingAlgorithms\bin\Debug\netcoreapp3.1\MultipleSortingAlgorithms.dll
+C:\Users\User\source\repos\MultipleSortingAlgorithms\MultipleSortingAlgorithms\bin\Debug\netcoreapp3.1\MultipleSortingAlgorithms.pdb
+C:\Users\User\source\repos\MultipleSortingAlgorithms\MultipleSortingAlgorithms\obj\Debug\netcoreapp3.1\MultipleSortingAlgorithms.dll
+C:\Users\User\source\repos\MultipleSortingAlgorithms\MultipleSortingAlgorithms\obj\Debug\netcoreapp3.1\MultipleSortingAlgorithms.pdb
+C:\Users\User\source\repos\MultipleSortingAlgorithms\MultipleSortingAlgorithms\obj\Debug\netcoreapp3.1\MultipleSortingAlgorithms.genruntimeconfig.cache
