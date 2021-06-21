@@ -4,8 +4,8 @@ namespace MultipleSortingAlgorithms
 {
     public class SortHandler
     {
-        public ISort SortStrategy { get; set; }
-        public int[] array;
+        private ISort SortStrategy { get; set; }
+        private int[] array;
 
         public SortHandler(ISort sortStrategy, int[] array)
         {
