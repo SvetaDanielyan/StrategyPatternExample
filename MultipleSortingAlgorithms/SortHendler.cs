@@ -5,23 +5,23 @@ namespace MultipleSortingAlgorithms
     public class SortHandler
     {
         public ISort SortStrategy { get; set; }
-        int[] Array = new int[Constants.LengthOfArray];
+        public int[] array;
 
         public SortHandler(ISort sortStrategy, int[] array)
         {
             this.SortStrategy = sortStrategy;
-            this.Array = array;
+            this.array = array;
         }
 
         public void SortArray()
         {
-            SortStrategy.Sort(Array);
+            SortStrategy.Sort(array);
         }
 
         public void ShowSortedArray()
         {
             Console.Write(Constants.TitleForOutput);
-            ConsoleHelper.ShowItems<int>(Array);
+            ConsoleHelper.ShowItems<int>(array);
         }
     }
 }

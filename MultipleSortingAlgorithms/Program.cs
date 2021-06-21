@@ -11,8 +11,8 @@ namespace MultipleSortingAlgorithms
 
             Console.WriteLine(Constants.SortMethodAsker);
             string strategy = Console.ReadLine();
-
             SortStrategy sortStrategy = ConvertValueToEnum<SortStrategy>(strategy);
+
             SortHelper.SortByStrategy(sortStrategy, array);
         }
 

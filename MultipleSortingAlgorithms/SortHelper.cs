@@ -6,28 +6,34 @@
         {
             if (array.Length == 0) { return; }
 
-            SortHandler sortHandler = null;
-            switch (sortMethod)
-            {
-                case SortStrategy.Insertion:
-                    InsertionSort insertionSort = new InsertionSort();
-                    sortHandler = new SortHandler(insertionSort, array);
-                    break;
+            ISort sortStrategy = IdentifySortStrategy(sortMethod);
+            if (sortStrategy == null) { return; }
 
-                case SortStrategy.Selection:
-                    SelectionSort selectionSort = new SelectionSort();
-                    sortHandler = new SortHandler(selectionSort, array);
-                    break;
-
-                case SortStrategy.Merge:
-                    MergeSort mergeSort = new MergeSort();
-                    sortHandler = new SortHandler(mergeSort, array);
-                    break;
-            }
-
+            SortHandler sortHandler = new SortHandler(sortStrategy, array);
             if (sortHandler == null) { return; }
             sortHandler.SortArray();
             sortHandler.ShowSortedArray();
+        }
+
+        public static ISort IdentifySortStrategy(SortStrategy sortMethod)
+        {
+            ISort sortStrategy = null;
+            switch (sortMethod)
+            {
+                case SortStrategy.Insertion:
+                    sortStrategy = new InsertionSort();
+                    break;
+
+                case SortStrategy.Selection:
+                    sortStrategy = new SelectionSort();
+                    break;
+
+                case SortStrategy.Merge:
+                    sortStrategy = new MergeSort();
+                    break;
+            }
+            if (sortStrategy == null) { return null; }
+            return sortStrategy;
         }
     }
 }
